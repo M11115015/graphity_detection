@@ -20,4 +20,3 @@
 - detection model accuarcy: 98.06% (RF)
 - classification model accuarcy: 97.52% (RF)
 - number of feature: 23
-- ./Model_classication/GraphTheory_RF is too large to upload, if you want to take the model, contact with me.
