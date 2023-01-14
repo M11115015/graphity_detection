@@ -13,7 +13,6 @@
   - add -c if you wanna do family classification
 - e.g. `python3 main.py -i testingBin/0021eaf2 -o myDetector_FC_records.csv -m rf -c`
   - using trained rf family classifier(`-c`), predict '0021eaf2' and write the result to 'myDetector_FC_records.csv'
-  - add `-W ignore` if you keep getting bothered by warning msg
 
 ## file 
 - train_model.py: for model training
