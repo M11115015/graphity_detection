@@ -1,7 +1,9 @@
 # graphity_detection
 
-## how to run & parameters
-- python3 main.py -i [binary_path] -o [output_path]
+## how to run
+`python3 main.py -i [binary_path] -o [output_path]`
+
+## param parser
 - input binary: `-i <path>`, `--input-path <path>`
 - output (record): `-o <path>`, `--output-path <path>` 
 - model: `-m <model>`, `--model <model>` (optional)
