@@ -11,8 +11,8 @@
 - Malware Detection / Family Classification (optional)
   - do nothing if you wanna do malware detection(binary clf)
   - add `-c` if you wanna do family classification
-- e.g. `python3 main.py -i testingBin/0021eaf2 -o myDetector_FC_records.csv -m rf -c`
-  - use trained rf family classification model to predict '0021eaf2' file and write the result to 'myDetector_FC_records.csv'
+- e.g. `python3 main.py -i "0021eaf2" -o myDetector_FC_records.csv -m rf -c`
+  - use trained rf family classification model to predict "0021eaf2" file and write the result to 'myDetector_FC_records.csv'
 
 ## file 
 - main.py: detector 、 classifier
