@@ -20,6 +20,6 @@
 - benign_graphtheory.csv 、 malware_graphtheory.csv: extracted feature value
 
 ## Features & Model performance
+- number of feature: 23
 - detection model accuarcy: 98.06% (RF)
 - classification model accuarcy: 97.52% (RF)
-- number of feature: 23
